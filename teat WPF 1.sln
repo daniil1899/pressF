@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teat WPF 1", "teat WPF 1\teat WPF 1.csproj", "{B826B655-D327-473E-A450-736E6045FBC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B826B655-D327-473E-A450-736E6045FBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B826B655-D327-473E-A450-736E6045FBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B826B655-D327-473E-A450-736E6045FBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B826B655-D327-473E-A450-736E6045FBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2BBD6ED-4C01-4C85-A437-07C6753C1E65}
+	EndGlobalSection
+EndGlobal
